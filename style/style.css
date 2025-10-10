@@ -88,3 +88,105 @@ img {
 #section-1-anchors {
   padding: 15px 0;
 } /* end of section 2 */
+ /* section6 */
+
+
+} */ */
+.links-wrapper {
+	padding: 15px 0;
+}
+.links-wrapper ul li {
+	display: inline-block;
+	padding-right: 20px;
+}
+.links-wrapper ul li a {
+	color: #06c;
+	text-decoration: none;
+}
+.links-wrapper ul li a:hover {
+	color: #000;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+
+
+
+/*Fourth Highlight Section */
+/*  */
+.left-side-wrapper {
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	width: 48.5%;
+	margin: 1% 0.5% 0% 1%; 
+	padding-top: 54px;
+} */
+.fourth-heghlight-wrapper .left-side-wrapper {
+	background-image:  url("../images/home/watch-series-5.jpg"); 
+}
+.right-side-wrapper {
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;	
+	width: 48.5%;
+	margin: 1% 1% 0% 0.5%; 
+	padding-top: 54px;
+}
+/*  */
+/*Sixth Highlight Section */
+.sixth-heghlight-wrapper {
+	display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #fff;
+}
+.sixth-heghlight-wrapper .left-side-wrapper {
+	background-image:  url("../images/home/macbook-pro.jpg"); 
+	background-size: initial;
+	background-color: #fafafa;
+	background-position: bottom;
+}
+.sixth-heghlight-wrapper .right-side-wrapper {
+	background-image:  url("../images/home/new-ipad.jpg"); 
+}
+.product-title-small {
+	font-weight: 700;
+	font-size: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
